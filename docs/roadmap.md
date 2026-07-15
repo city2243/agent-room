@@ -5,16 +5,16 @@
 - [x] 建立產品定位與規格
 - [x] 建立 Agent 角色設定
 - [x] 建立 Git 專案
-- [ ] 建立 GitHub Private Repository
+- [x] 建立 GitHub Repository（目前為 Public）
 
 ## M1 — 視覺原型
 
-- [ ] 辦公室場景與五個 Agent 角色
-- [ ] 任務卡建立、拖曳與狀態切換
-- [ ] Agent 詳情面板
-- [ ] Token 儀表板與預警狀態
-- [ ] 桌面與 iPad 響應式介面
-- [ ] 使用模擬資料完成完整操作流程
+- [x] 辦公室場景與五個 Agent 角色
+- [x] 任務卡建立、拖曳與狀態切換
+- [x] Agent 詳情面板
+- [x] Token 儀表板與預警狀態
+- [x] 桌面與 iPad 響應式介面
+- [x] 使用模擬資料完成完整操作流程
 
 ## M2 — 真實任務引擎
 
@@ -38,4 +38,3 @@
 - [ ] Context 自動摘要與 checkpoint
 - [ ] iPad／iPhone 遠端查看及核准
 - [ ] 通知與重要警示
-

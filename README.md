@@ -4,6 +4,12 @@
 
 使用者只需要對專案總管下達目標；專案總管會拆解任務、指派專業 Agent、整合結果，並持續回報進度、風險與 token／額度狀態。
 
+## 線上原型
+
+[開啟 Agent Room](https://agent-room.jaime2243.chatgpt.site)
+
+目前版本以模擬資料展示完整操作流程：點選 Agent 查看工作、點任務後指派 Agent、建立新任務、暫停／送審，以及查看任務 token 預算。介面中的 token 並非帳戶真實剩餘額度。
+
 ## 核心目標
 
 - 用辦公室場景呈現 Agent 的角色、位置與工作狀態。
@@ -34,9 +40,8 @@
 
 ## 專案狀態
 
-目前處於 `M0 — 專案初始化`。
+目前已完成 `M1 — 視覺原型`。
 
-接下來將先完成可操作的辦公室原型，再串接 Codex 執行與 token 遙測。
+接下來進入 `M2 — 真實任務引擎`，串接 Codex 執行、事件串流與使用者核准流程。
 
 詳細規格請見 [`docs/product-spec.md`](docs/product-spec.md)，開發順序請見 [`docs/roadmap.md`](docs/roadmap.md)。
-
